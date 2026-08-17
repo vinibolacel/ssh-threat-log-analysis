@@ -87,6 +87,13 @@ For this reason, SSH logs should be correlated with firewall, endpoint and acces
 - Monitor authentication logs and configure alerts
 - Apply least-privilege access to administrative accounts
 
+  ## Project Files
+
+- [Sanitised SSH Log Dataset](logs/sanitised-ssh.log)
+- [Detailed Threat Analysis](analysis/threat-analysis.md)
+- [Security Analysis Report](reports/security-report.md)
+- [Threat Mitigation Plan](remediation/mitigation-plan.md)
+
 ## Repository Structure
 
 ```text
